@@ -1,5 +1,5 @@
 layout: page
 title: "app-ads"
-permalink: /app-ads.txt
+permalink: /app-ads.html
 
 Change added
